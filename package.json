@@ -1,0 +1,14 @@
+{
+  "name": "railbus-root",
+  "version": "1.0.0",
+  "description": "RailBus - Online Railway & Bus Ticket Booking System Launcher",
+  "scripts": {
+    "dev": "npm --prefix \"Train&Bus_Ticket_Booking_System\" run dev",
+    "start": "npm --prefix \"Train&Bus_Ticket_Booking_System\" start",
+    "dev:frontend": "npm --prefix \"Train&Bus_Ticket_Booking_System\" run dev:frontend",
+    "dev:backend": "npm --prefix \"Train&Bus_Ticket_Booking_System\" run dev:backend",
+    "test": "npm --prefix \"Train&Bus_Ticket_Booking_System\" test"
+  },
+  "author": "Antigravity Engineering",
+  "license": "ISC"
+}
